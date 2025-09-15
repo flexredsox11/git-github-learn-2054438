@@ -21,9 +21,9 @@ sofort mitprogrammieren - ganz ohne Installation von Software.
 
 Um die Übungsdateien nutzen zu können, laden Sie sie sich bitte zunächst herunter.
 Dazu klicken Sie auf den grünen Button mit der Aufschrift "<> Code" 
-und wählen dann "Donwload ZIP".
+und wählen dann "Download ZIP".
 
-Die einzelnen Übungsdateien finden Sie in den Ordnern 01_firststeps bis 04_projects.
+Die einzelnen Übungsdateien finden Sie in den Ordnern.
 
 ### Autor
 
