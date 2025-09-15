@@ -1,64 +1,39 @@
-# [DE-Kursname hier eintragen]
+# Git und Github lernen
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Git und Github lernen`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[Marketing Paragraph for Codespaces - without Codespaces: _remove all 3 pragraphs_ - with Codespace: _keep the right paragraph_ for the right course type (1 of 3)]
+Entdecken Sie die Macht von Git, Ihrer persönlichen Zeitmaschine für die Softwareentwicklung! Dieser LinkedIn Learning-Kurs mit Thomas Rose Kurs bietet eine umfassende Einführung: von der Installation über erste Schritte bis hin zum Anlegen und Verwalten von Repositories. Lernen Sie, Branches zu erstellen, zusammenzuführen und Merge-Konflikte zu lösen. Erfahren Sie, wie Sie Zwischenstände sichern, häufig genutzte Befehle meistern und Git mit künstlicher Intelligenz kombinieren. Außerdem tauchen Sie in die Welt von GitHub ein, um Repositories zu pushen, Projekte zu klonen und Prozesse mit Github Actions zu automatisieren. Durch die Integration in GitHub Codespaces, einer cloudbasierten Entwicklungsumgebung (IDE), haben Sie direkt Zugriff auf den kompletten Übungscode. Perfekt für Einsteiger:innen und Fortgeschrittene, die ihre 
 
-[Practice It: X | All Other [Project Mojo] Courses]
+## Sofort mitprogrammieren
 
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
+Um gleich mitprogrammieren zu können, steht Ihnen GitHub-Codespaces zur Verfügung. 
+Einzige Vorraussetzung dafür ist ein kostenloser GitHub-Account.
+Sobald Sie in GitHub eingeloggt sind, klicken Sie bitte auf folgenden Button
 
-[Hands-On Introduction to X]
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/LinkedInLearning/learning-web-techniques-4-javascript-4412081)
 
-Der beste Weg, eine Programmiersprache zu lernen, ist, sie in der Praxis anzuwenden. Deshalb ist dieser Kurs in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
+Ihnen steht dann eine vollwertige Entwicklungsumgebung im Browser zur Verfügung und Sie können
+sofort mitprogrammieren - ganz ohne Installation von Software.
 
-[Level Up (previously Code Challenges)] 
+## Übungsdateien herunterladen und offline programmieren
 
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. 
-Jede Folge der Code-Challenges-Serie bietet mindestens 12 praktische Übungen in verschiedenen Schwierigkeitsgraden, so dass Sie sich selbst herausfordern und das Gelernte festigen können. Schauen Sie sich das Video " Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie man einen Codespace einrichtet und zum Einsatz bringt. 
+Um die Übungsdateien nutzen zu können, laden Sie sie sich bitte zunächst herunter.
+Dazu klicken Sie auf den grünen Button mit der Aufschrift "<> Code" 
+und wählen dann "Donwload ZIP".
 
-[COURSEDESCRIPTION]
-
-## Anleitung
-
-Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen `/tree/BRANCH_NAME` der URL hinzu um direkt in den gewünschten Branch zu wechseln.
-
-## Branches
-
-Die Git Branches sind passend zu den Videos im Kurs strukturiert. Die Namenskonvention lautet `Kapitel#_Video#`. Der Branch `02_03` beinhaltet zum Beispiel die Übungen für das dritte Video im zweiten Kapitel. 
-Einige Branches haben einen Anfangsstatus (`b`) für "beginning" und einen Endstatus (`e`). Der Branch mit dem `e` am Ende beinhaltet in diesem Fall stets den Code der am Ende des Videos zu sehen ist. Der `master` Branch beinhaltet den initialen Quellcode und wird nicht für die Übungen innerhalb des Kurses genutzt.
-
-Wenn Sie von einem Branch nach Änderungen zum nächsten Branch wechseln, erhalten Sie möglicherweise die folgende Meldung:
-
-```
-error: Your local changes to the following files would be overwritten by checkout:        [files]
-Please commit your changes or stash them before you switch branches.
-Aborting
-```
-
-Dieses Problem lösen Sie wie folgt:
-    Add changes to git using this command: git add .
-    Commit changes using this command: git commit -m "some message"
-
-## Installation
-
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+Die einzelnen Übungsdateien finden Sie in den Ordnern 01_firststeps bis 04_projects.
 
 ### Autor
 
-**[Name hier eintragen]**
+**Thomas Rose**
 
-_[Berufsbezeichnung hier eintragen]_
+_Medienpädagoge_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-rose) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/git-und-github-lernen-26169819
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQG6gwZK-9-X4Q/learning-public-crop_675_1200/B4DZk0cRxHIYAY-/0/1757521452895?e=2147483647&v=beta&t=QTZ3Sq5TsMHOUDeLm3P7jUlI562oaOuG1cWQcdvzR3I
 
-[1]: # (End of DE-Instruction ###############################################################################################)
